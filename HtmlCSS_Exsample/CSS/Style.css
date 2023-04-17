@@ -1,0 +1,17 @@
+﻿body{
+    margin : 0;
+}
+.box{
+    width:80%;
+    background-color:crimson;
+    margin:auto;
+    text-align:center;
+    text-decoration:underline;
+    font-family:sans-serif;
+    font-weight:100;
+    font-style:italic;
+  
+}
+p {
+    font-weight: bold;
+}
