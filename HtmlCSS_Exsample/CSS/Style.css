@@ -37,8 +37,17 @@ p {
     font-size: 15px;
     text-transform: uppercase;
     cursor: pointer;
-    transition: background-color 0.5s ease;
+    transition: background-color 0.5s linear;
+    border-radius:10px;
 }
     .btn:hover {
         background-color: transparent;
+    }
+    ul{
+        list-style:none;
+        padding:0;
+    }
+    ul li{
+        margin:10px;
+        border-bottom:1px solid #000;
     }
